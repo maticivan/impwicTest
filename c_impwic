@@ -1,0 +1,4 @@
+echo "g++ -I /usr/local/include  -c impwic.cpp -std=c++17 -lstdc++fs -lcgicc `libpng-config --cflags`"
+g++ -I /usr/local/include  -c impwic.cpp -std=c++17 -lstdc++fs -lcgicc `libpng-config --cflags`
+echo "g++ -o index.cgi impwic.o -std=c++17 -lstdc++fs -lcgicc `libpng-config --ldflags`"
+g++ -o index.cgi impwic.o -std=c++17 -lstdc++fs -lcgicc `libpng-config --ldflags`

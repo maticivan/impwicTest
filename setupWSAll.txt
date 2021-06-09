@@ -1,0 +1,36 @@
+
+
+ 
+ _mainFolderDB*!_/webFiles/mainDBSmtm_/mainFolderDB*!_ 
+_mainText*!_mTxt_/mainText*!_ 
+
+_numStorageSubFoldersInFolder*!_1000_/numStorageSubFoldersInFolder*!_
+_numFilesInFolder*!_1000_/numFilesInFolder*!_ 
+
+
+
+_pVar*!_page_/pVar*!_   
+
+
+ _folderName*!_dbSystem_/folderName*!_
+
+_prefixSubdicrectories*!_Dir__/prefixSubdicrectories*!_ 
+_prefixFilesPt*!_a__/prefixFilesPt*!_
+_prefixFilesDt*!_b__/prefixFilesDt*!_
+_maxStringBeforeNextFolder*!_zz_/maxStringBeforeNextFolder*!_ 
+
+Degree of B-tree (This parameter must not be changed after the databases are created) 
+_sysBTT*!_5_/sysBTT*!_    
+    
+ _fileWithDynamicData*!_xd.txt_/fileWithDynamicData*!_ 
+_availableFileNames*!_fNM.txt_/availableFileNames*!_
+_fileExtension*!_txt_/fileExtension*!_ 
+_nextNameBB*!__nf*!__nextNameBE*!_
+_nextNameEB*!__/nf*!__nextNameEE*!_
+_nextEmptyBB*!_?_nextEmptyBE*!_
+_nextEmptyEB*!_!_nextEmptyEE*!_
+ 
+ 
+  
+
+
